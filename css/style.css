@@ -40,7 +40,9 @@ body{
     font-size: 24px;
     font-weight: bold;
     color: #012F34;
-    padding: 16px 24px 20px 24px;
+    padding: 15px;
+    width: 70px;
+    height: 70px;
     margin-top: -50%;
     transition: all 0.5s ease-in-out;
 }
